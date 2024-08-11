@@ -1,0 +1,9 @@
+Bucket = "your_bucket"
+Operator = "your_operator"
+Password = "your_password"
+#例如"test/"，如果没有则填写"/"
+Path="/"
+#加速网站，需要带http或https
+Url = "http://image.xxx.com"
+#上传图片成功后将图片复制到本地目录，例如"D:/test"，如果不需要此功能则留空
+DestinationFolder = "D:/test"
